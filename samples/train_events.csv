@@ -1,0 +1,4 @@
+OS_status,OS_time,ID,PFS_status,PFS_time,PVTT,LungMet,BoneMet,Up to seven,LNMet,Age,Male,Child_Pugh,HBV,BCLC
+1,8.94,1,1,6.74,1,0,0,1,0,47,0,1,1,0
+1,15.39,2,1,9.7,1,1,0,0,0,47,0,0,1,0
+1,19.59,3,1,7.59,1,0,0,1,0,55,0,0,1,0
